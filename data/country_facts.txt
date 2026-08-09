@@ -1,0 +1,15 @@
+Japan: Life expectancy in Japan reached 82.6 years in 2007, the highest in the Gapminder data.
+Norway: Norway combines one of the world's highest GDP per capita with a small population of under 5 million.
+Rwanda: Rwanda's life expectancy dropped below 24 years in 1992, the lowest value ever recorded in the data.
+China: China's population grew from about 556 million in 1952 to over 1.3 billion in 2007.
+Germany: Germany is the most populous country in Europe in the Gapminder data.
+Kuwait: In 1957, Kuwait recorded a GDP per capita of over 113,000 dollars, the highest in the entire dataset.
+Egypt: Life expectancy in Egypt rose from about 42 years in 1952 to over 71 years in 2007.
+Brazil: Brazil is the largest country in the Americas by population in this dataset.
+Vietnam: Vietnam more than doubled its life expectancy between 1952 and 2007.
+Switzerland: Switzerland had the highest European life expectancy in 2007, at 81.7 years.
+India: India's population passed the one billion mark between the 1997 and 2002 waves of the data.
+Botswana: Botswana's life expectancy fell by more than 10 years between 1992 and 2002, largely due to the HIV/AIDS epidemic.
+Iceland: Iceland is the least populous country in the European part of the Gapminder data.
+Mexico: Mexico's GDP per capita roughly tripled between 1952 and 2007.
+Bangladesh: Bangladesh is one of the most densely populated large countries in the world.
